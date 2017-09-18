@@ -1,0 +1,7 @@
+def nested_sum (t):
+    total = 0
+    for i in t:
+        total+ = sum([i])
+    return total
+
+nested_sum([[1,2],[3,4]])
